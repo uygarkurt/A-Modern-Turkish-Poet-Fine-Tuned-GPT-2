@@ -95,7 +95,7 @@ En son gündü ve ben ilk defa öldüğüm için. \
 Yine de özlemişimin son demindeyim.
 
 ## Data <a class="anchor" id="data"></a>
-All the categories and number of poems each category has summarized below.
+All the categories and number of poems for each category has summarized below.
 
 | Category    | \# Poems | Category   | \# Poems | Category | \# Poems |
 |-------------|----------|------------|----------|----------|----------|
