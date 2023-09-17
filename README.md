@@ -19,7 +19,9 @@
     <p>Liked our work? give us a ⭐!</p>
 </div>
 
-This repository contains the PDF version of the book **Gerçekliğin İçinde: Yapay Zeka Tarafından Yazıldı** that is written by custom fine-tuned GPT-2. In total 5 GPT-2 models trained for 5 different chapters. This book contains 70 poems, 10 for each chapter, and published at [Amazon](https://www.amazon.com/gp/product/B0BKWMFB3V/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0BKWMFB3V&SubscriptionId=1MGPYB6YW3HWK55XCGG2), [Goodreads](https://www.goodreads.com/book/show/75427836-ger-ekli-in-i-inde?ac=1&from_search=true&qid=tY5OinoPzb&rank=1) and [Google Books](https://books.google.com.tr/books/about/Gerçekliğin_İçinde.html?id=gumYEAAAQBAJ&redir_esc=y). This work presented in the paper  **A Modern Turkish Poet: Fine-Tuned GPT-2**. This paper got accepted from UBMK23 and will be published at IEEE Explore. Aim of this work is to push the limits of AI to convey human emotions on different topics.
+This repository contains the PDF version of the book **Gerçekliğin İçinde: Yapay Zeka Tarafından Yazıldı** that is written by custom fine-tuned GPT-2. In total 5 GPT-2 models trained for 5 different chapters. This book contains 70 poems, 10 for each chapter, and published at [Amazon](https://www.amazon.com/gp/product/B0BKWMFB3V/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0BKWMFB3V&SubscriptionId=1MGPYB6YW3HWK55XCGG2), [Goodreads](https://www.goodreads.com/book/show/75427836-ger-ekli-in-i-inde?ac=1&from_search=true&qid=tY5OinoPzb&rank=1) and [Google Books](https://books.google.com.tr/books/about/Gerçekliğin_İçinde.html?id=gumYEAAAQBAJ&redir_esc=y). 
+
+This work presented in the paper  **A Modern Turkish Poet: Fine-Tuned GPT-2**. This paper got accepted from UBMK23 and will be published at IEEE Explore. Aim of this work is to push the limits of AI to convey human emotions on different topics.
 
 You can view the book cover below.
 
@@ -27,6 +29,10 @@ You can view the book cover below.
 * [Chapters](#chapters)
 * [Sample Poems](#sample)
     * [Chapter 1](#chapter1)
+    * [Chapter 2](#chapter2)
+    * [Chapter 3](#chapter3)
+    * [Chapter 4](#chapter4)
+    * [Chapter 5](#chapter5)
 * [Data](#Data)
 * [Contact](#contact)
 
@@ -49,6 +55,44 @@ Ben sende kayboldum bir tanem. \
 Sen bende kayboldun. Beni terk et artık... Beni sen öldürdün. \
 Yürekte senden hatıra kalsın. Bu hasretlik beni boğmasın. Ne olursun yar! \
 Ne diyebilesin? Yalnız olan sen...
+
+### Chapter 2 - Nature <a class="anchor" id="chapter2"></a>
+Bahar gelip döküldüğünde yapraklar, \
+Gül açar sana, o güzel baharda Meyveler yeşerir, çiçek açar dallara, yapraklara \
+O baharda kokusu var ya! Bir çiçek soldurur. O an, ne güzel sensiz!
+
+### Chapter 3 - Religion <a class="anchor" id="chapter3"></a>
+Bulutların üzerinde cenneti görebiliyorum. \
+Sessiz cennet kokusu \
+Olmazsa eğer bir yıldızım. \
+Benim öyle bir isteğim var ise \
+Seni bu gece yalnız bırakacağım! \
+\
+Tanrı bana ne verdi, ne götüreyim! \
+Ben sana, en çok sana güvendim. \
+Bu ne demek diye bana dua etti. \
+Ben bu yüzden sana soruyorum. \
+Tanrı'dan başka ne gelir ki...
+
+### Chapter 4 - Nationalism <a class="anchor" id="chapter4"></a>
+Düşmanı öldürdüm oldum kahraman \
+Uşağıma vurdum ben anlı şanlı bayrağım uğruna \
+Bu vatan için yandım diye öldüm. \
+Öleyim Allah’ım ben bu Vatan uğruna,..
+
+### Chapter 5 - Life <a class="anchor" id="chapter5"></a>
+Yüreğim aklım hep uzaklarda. \
+Belki de ben 'Unutmayacağım bunu!' \
+Dediğin şeylere bir göz atıyorum \
+Biraz da özlem ''Nostalji'' olsun diye \
+\
+En güzel tatil yeri neresi diye soracaktım \
+Bilmiyorum, bulamadım. O gün içinize bir şey bulamıyorum. \
+Çünkü ben bir gün önce uyuyamaştım biliyorsun. \
+Annemi fazla kafama taktım sanırım.. \
+\
+En son gündü Ve ben ilk defa öldüğüm için. \
+Yine de özlemişimin son demindeyim.
 
 ## Data <a class="anchor" id="data"></a>
 All the categories and number of poems each category has summarized below.
