@@ -45,9 +45,9 @@ Below you can view the chapters with main motives and related categories.
 Below you can find a sample poem for each chapter.
 
 ### Chapter 1 - Love <a class="anchor" id="chapter1"></a>
-Ben sende kayboldum bir tanem.\\
-Sen bende kayboldun. Beni terk et artık... Beni sen öldürdün.\\
-Yürekte senden hatıra kalsın. Bu hasretlik beni boğmasın. Ne olursun yar! Ne diyebilesin? Yalnız olan sen...\\
+Ben sende kayboldum bir tanem.\
+Sen bende kayboldun. Beni terk et artık... Beni sen öldürdün.\
+Yürekte senden hatıra kalsın. Bu hasretlik beni boğmasın. Ne olursun yar! Ne diyebilesin? Yalnız olan sen...\
 
 ## Data <a class="anchor" id="data"></a>
 All the categories and number of poems each category has summarized below.
