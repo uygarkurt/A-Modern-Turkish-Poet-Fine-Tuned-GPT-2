@@ -19,7 +19,7 @@
     <p>Liked our work? give us a ⭐!</p>
 </div>
 
-This repository contains the book "Gerçekliğin İçinde: Yapay Zeka Tarafından Yazıldı" that is written by custom fine-tuned GPT-2. In total 5 GPT-2 models trained for 5 different chapters. This book contains 70 poems, 10 for each chapter, and published at [Amazon](https://www.amazon.com/gp/product/B0BKWMFB3V/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0BKWMFB3V&SubscriptionId=1MGPYB6YW3HWK55XCGG2), [Goodreads](https://www.goodreads.com/book/show/75427836-ger-ekli-in-i-inde?ac=1&from_search=true&qid=tY5OinoPzb&rank=1) and [Google Books](https://books.google.com.tr/books/about/Gerçekliğin_İçinde.html?id=gumYEAAAQBAJ&redir_esc=y). This work presented in the paper  **A Modern Turkish Poet: Fine-Tuned GPT-2**. This paper got accepted from UBMK23 and will be published at IEEE Explore. Aim of this work is to push the limits of AI to convey human emotions on different topics.
+This repository contains the PDF version of the book **Gerçekliğin İçinde: Yapay Zeka Tarafından Yazıldı** that is written by custom fine-tuned GPT-2. In total 5 GPT-2 models trained for 5 different chapters. This book contains 70 poems, 10 for each chapter, and published at [Amazon](https://www.amazon.com/gp/product/B0BKWMFB3V/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0BKWMFB3V&SubscriptionId=1MGPYB6YW3HWK55XCGG2), [Goodreads](https://www.goodreads.com/book/show/75427836-ger-ekli-in-i-inde?ac=1&from_search=true&qid=tY5OinoPzb&rank=1) and [Google Books](https://books.google.com.tr/books/about/Gerçekliğin_İçinde.html?id=gumYEAAAQBAJ&redir_esc=y). This work presented in the paper  **A Modern Turkish Poet: Fine-Tuned GPT-2**. This paper got accepted from UBMK23 and will be published at IEEE Explore. Aim of this work is to push the limits of AI to convey human emotions on different topics.
 
 You can view the book cover below.
 
@@ -45,9 +45,9 @@ Below you can view the chapters with main motives and related categories.
 Below you can find a sample poem for each chapter.
 
 ### Chapter 1 - Love <a class="anchor" id="chapter1"></a>
-Ben sende kayboldum bir tanem.\
-Sen bende kayboldun. Beni terk et artık... Beni sen öldürdün.\
-Yürekte senden hatıra kalsın. Bu hasretlik beni boğmasın. Ne olursun yar!\ 
+Ben sende kayboldum bir tanem. \
+Sen bende kayboldun. Beni terk et artık... Beni sen öldürdün. \
+Yürekte senden hatıra kalsın. Bu hasretlik beni boğmasın. Ne olursun yar! \
 Ne diyebilesin? Yalnız olan sen...
 
 ## Data <a class="anchor" id="data"></a>
